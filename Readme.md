@@ -38,19 +38,19 @@ You have to fill some informations on `_config.yml` to customize your site.
 
 ```
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "" # the subpath of your site, e.g. /blog/
+description: Check out our blogs!
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://localhost:3000" # the base hostname & protocol for your site 
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: fireflies.ai
+user_description: Slack bot in training
+user_title: Slack Bot
+email: support@fireflies.ai
+twitter_username: firefliesai
+github_username:  
+gplus_username: 
+disqus_username:
 ```
 
 **Don't forget to change your baseurl before build your site!**
